@@ -1,0 +1,3 @@
+ a. NOMBRE:Laura Sofia 
+ b. APELLIDO: Bonilla Murillo 
+ c. FECHA_DE_NACIMIENTO: 2005-04-03
